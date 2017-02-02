@@ -1,6 +1,7 @@
 ## Am Adestramentos
 
-email: amadestramentos@yahoo.com.br
+Email: <mailto:amadestramentos@yahoo.com.br>  
+Telefone: (43) 99911-0079
 
 <!--
 You can use the [editor on GitHub](https://github.com/sandrofolk/amadestramentos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
